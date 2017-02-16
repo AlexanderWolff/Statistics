@@ -1,0 +1,27 @@
+C:\Users\IVS SOFTWARE PC\Documents\Visual Studio 2010\Projects\Statistics\Statistics\Statistics\bin\Debug\Statistics.exe.config
+C:\Users\IVS SOFTWARE PC\Documents\Visual Studio 2010\Projects\Statistics\Statistics\Statistics\bin\Debug\Statistics.exe
+C:\Users\IVS SOFTWARE PC\Documents\Visual Studio 2010\Projects\Statistics\Statistics\Statistics\bin\Debug\Statistics.pdb
+C:\Users\IVS SOFTWARE PC\Documents\Visual Studio 2010\Projects\Statistics\Statistics\Statistics\obj\Debug\Statistics.MainForm.resources
+C:\Users\IVS SOFTWARE PC\Documents\Visual Studio 2010\Projects\Statistics\Statistics\Statistics\obj\Debug\Statistics.Properties.Resources.resources
+C:\Users\IVS SOFTWARE PC\Documents\Visual Studio 2010\Projects\Statistics\Statistics\Statistics\obj\Debug\Statistics.csproj.GenerateResource.Cache
+C:\Users\IVS SOFTWARE PC\Documents\Visual Studio 2010\Projects\Statistics\Statistics\Statistics\obj\Debug\Statistics.exe
+C:\Users\IVS SOFTWARE PC\Documents\Visual Studio 2010\Projects\Statistics\Statistics\Statistics\obj\Debug\Statistics.pdb
+C:\Users\IVS SOFTWARE PC\Documents\Visual Studio 2010\Projects\Statistics\Statistics\Statistics\obj\Debug\Statistics.csprojResolveAssemblyReference.cache
+C:\Users\Alexander Wolff\Documents\Visual Studio 2015\Projects\Statistics\Statistics\Statistics\bin\Debug\Statistics.exe.config
+C:\Users\Alexander Wolff\Documents\Visual Studio 2015\Projects\Statistics\Statistics\Statistics\bin\Debug\Statistics.exe
+C:\Users\Alexander Wolff\Documents\Visual Studio 2015\Projects\Statistics\Statistics\Statistics\bin\Debug\Statistics.pdb
+C:\Users\Alexander Wolff\Documents\Visual Studio 2015\Projects\Statistics\Statistics\Statistics\obj\Debug\Statistics.csprojResolveAssemblyReference.cache
+C:\Users\Alexander Wolff\Documents\Visual Studio 2015\Projects\Statistics\Statistics\Statistics\obj\Debug\Statistics.MainForm.resources
+C:\Users\Alexander Wolff\Documents\Visual Studio 2015\Projects\Statistics\Statistics\Statistics\obj\Debug\Statistics.Properties.Resources.resources
+C:\Users\Alexander Wolff\Documents\Visual Studio 2015\Projects\Statistics\Statistics\Statistics\obj\Debug\Statistics.csproj.GenerateResource.Cache
+C:\Users\Alexander Wolff\Documents\Visual Studio 2015\Projects\Statistics\Statistics\Statistics\obj\Debug\Statistics.exe
+C:\Users\Alexander Wolff\Documents\Visual Studio 2015\Projects\Statistics\Statistics\Statistics\obj\Debug\Statistics.pdb
+C:\Users\IVS SOFTWARE PC\Documents\Visual Studio 2015\Projects\Statistics\Statistics\Statistics\bin\Debug\Statistics.exe.config
+C:\Users\IVS SOFTWARE PC\Documents\Visual Studio 2015\Projects\Statistics\Statistics\Statistics\obj\Debug\Statistics.exe
+C:\Users\IVS SOFTWARE PC\Documents\Visual Studio 2015\Projects\Statistics\Statistics\Statistics\obj\Debug\Statistics.pdb
+C:\Users\IVS SOFTWARE PC\Documents\Visual Studio 2015\Projects\Statistics\Statistics\Statistics\bin\Debug\Statistics.exe
+C:\Users\IVS SOFTWARE PC\Documents\Visual Studio 2015\Projects\Statistics\Statistics\Statistics\bin\Debug\Statistics.pdb
+C:\Users\IVS SOFTWARE PC\Documents\Visual Studio 2015\Projects\Statistics\Statistics\Statistics\obj\Debug\Statistics.csprojResolveAssemblyReference.cache
+C:\Users\IVS SOFTWARE PC\Documents\Visual Studio 2015\Projects\Statistics\Statistics\Statistics\obj\Debug\Statistics.MainForm.resources
+C:\Users\IVS SOFTWARE PC\Documents\Visual Studio 2015\Projects\Statistics\Statistics\Statistics\obj\Debug\Statistics.Properties.Resources.resources
+C:\Users\IVS SOFTWARE PC\Documents\Visual Studio 2015\Projects\Statistics\Statistics\Statistics\obj\Debug\Statistics.csproj.GenerateResource.Cache
